@@ -1,0 +1,27 @@
+{
+    "wallpaper": "/home/elpepe44/.config/i3/walls/momo-y-okarun_3840x2160_xtrafondos.com.jpg",
+    "alpha": "100",
+    "special": {
+        "background": "#0c0609",
+        "foreground": "#d8cfd0",
+        "cursor": "#d8cfd0"
+    },
+    "colors": {
+        "color0": "#0c0609",
+        "color1": "#BA4639",
+        "color2": "#2B8976",
+        "color3": "#CEA726",
+        "color4": "#3849A0",
+        "color5": "#A47089",
+        "color6": "#608EA4",
+        "color7": "#d8cfd0",
+        "color8": "#979091",
+        "color9": "#BA4639",
+        "color10": "#2B8976",
+        "color11": "#CEA726",
+        "color12": "#3849A0",
+        "color13": "#A47089",
+        "color14": "#608EA4",
+        "color15": "#d8cfd0"
+    }
+}

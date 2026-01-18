@@ -1,0 +1,14 @@
+[manager]
+border_symbol = "│"
+border_style  = { fg = "blue" } # O usa el color de pywal
+
+[status]
+separator_open  = ""
+separator_close = ""
+
+[filetype]
+rules = [
+    { mime = "image/*", fg = "cyan" },
+    { mime = "video/*", fg = "magenta" },
+    { mime = "audio/*", fg = "yellow" },
+]

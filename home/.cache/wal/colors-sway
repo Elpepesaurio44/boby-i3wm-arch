@@ -1,0 +1,21 @@
+set $wallpaper /home/elpepe44/.config/i3/walls/shinobu-a-contra-luz-de-la-luna_3840x2160_xtrafondos.com.jpg
+
+set $background #06060E
+set $foreground #e3e8f5
+
+set $color0 #06060E
+set $color1 #0956DF
+set $color2 #936DB3
+set $color3 #628AC2
+set $color4 #A3A2DA
+set $color5 #B5ADE2
+set $color6 #D2D3FB
+set $color7 #e3e8f5
+set $color8 #9ea2ab
+set $color9 #0956DF
+set $color10 #936DB3
+set $color11 #628AC2
+set $color12 #A3A2DA
+set $color13 #B5ADE2
+set $color14 #D2D3FB
+set $color15 #e3e8f5

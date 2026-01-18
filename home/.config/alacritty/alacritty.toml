@@ -1,0 +1,42 @@
+# --- VENTANA ---
+[window]
+# Transparencia (0.0 totalmente invisible, 1.0 opaco)
+opacity = 0.8
+# Espacio entre el texto y los bordes (hace que se vea mucho más limpio)
+padding = { x = 12, y = 12 }
+# Elimina decoraciones si quieres un look más minimalista
+decorations = "full" 
+# Título de la ventana
+title = "Alacritty - Arch Linux"
+# Clase para que Picom pueda identificarla
+class = { instance = "Alacritty", general = "Alacritty" }
+
+# --- FUENTES ---
+[font]
+normal = { family = "JetBrainsMono Nerd Font", style = "Bold" }
+bold = { family = "JetBrainsMono Nerd Font", style = "Bold" }
+italic = { family = "JetBrainsMono Nerd Font", style = "Italic" }
+# Tamaño de fuente un poco más grande para que los iconos de Starship luzcan
+size = 11.0
+
+# --- CURSOR ---
+#[cursor]
+# Estilo del cursor: Beam (raya vertical), Underline o Block
+#style = { shape = "Beam", blinking = "On" }
+# Grosor del cursor
+#thickness = 0.15
+
+[cursor]
+style = { shape = "Beam", blinking = "Always" }
+blink_interval = 500
+thickness = 0.15
+
+# --- SELECCIÓN ---
+[selection]
+# Copiar al portapapeles automáticamente al seleccionar
+save_to_clipboard = true
+
+# --- SCROLLING ---
+[scrolling]
+history = 10000
+multiplier = 3

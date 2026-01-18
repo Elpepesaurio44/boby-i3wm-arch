@@ -1,0 +1,84 @@
+/**
+ * ROFI CONFIG - PYWAL + ICONOS (VERSION COMPACTA)
+ */
+
+configuration {
+    show-icons:         true;
+    icon-theme:         "Papirus";
+    display-drun:       " ";
+    drun-display-format: "{icon} {name}";
+    font:               "JetBrainsMono Nerd Font 11";
+}
+
+/* 1. Importar colores de Pywal al principio */
+@import "~/.cache/wal/colors-rofi-dark.rasi"
+
+/* 2. Definir variables para que no de error */
+* {
+    bg0: @background;
+    bg1: @background;
+    bg2: @color8;
+    bg3: @selected-active-background;
+    fg0: @foreground;
+    fg1: @foreground;
+    fg2: @foreground;
+    fg3: @color7;
+    
+    background-color:   transparent;
+    text-color:         @fg0;
+}
+
+/* 3. Estructura del menú (Basada en tu estilo rounded) */
+window {
+    location:       north;
+    y-offset:       calc(50% - 176px); /* Posición original [cite: 9] */
+    width:          400;               /* Tamaño más pequeño y elegante */
+    border-radius:  20px;
+    background-color: @bg0;
+    border:         2px;
+    border-color:   @bg3;
+}
+
+mainbox {
+    padding:    12px;
+    children:   [ "inputbar", "listview" ];
+}
+
+inputbar {
+    background-color: @bg1;
+    border-color:     @bg3;
+    border:           2px;
+    border-radius:    12px;
+    padding:          8px 12px;
+    spacing:          8px;
+    children:         [ prompt, entry ];
+}
+
+listview {
+    margin:      10px 0 0;
+    lines:       6;    /* Menos líneas para que sea compacto */
+    columns:     1;
+    fixed-height: false;
+}
+
+/* 4. Selección ajustada (ni muy grande ni muy chica) */
+element {
+    padding:       8px 12px; 
+    spacing:       10px;
+    border-radius: 10px;
+}
+
+element selected {
+    background-color: @bg3;
+    text-color:       @bg0;
+}
+
+element-icon {
+    size:           1.2em; /* Icono ajustado al texto */
+    vertical-align: 0.5;
+}
+
+element-text {
+    vertical-align: 0.5;
+    text-color:     inherit;
+}

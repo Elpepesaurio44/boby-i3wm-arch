@@ -1,0 +1,27 @@
+{
+    "wallpaper": "/home/elpepe44/Downloads/chica-anime-rosa-pink-kiwi_3840x2160_xtrafondos.com.jpg",
+    "alpha": "100",
+    "special": {
+        "background": "#0F0812",
+        "foreground": "#f4a9c9",
+        "cursor": "#f4a9c9"
+    },
+    "colors": {
+        "color0": "#0F0812",
+        "color1": "#5B4850",
+        "color2": "#962250",
+        "color3": "#BC3C50",
+        "color4": "#DF1966",
+        "color5": "#EDC46F",
+        "color6": "#D84C88",
+        "color7": "#f4a9c9",
+        "color8": "#aa768c",
+        "color9": "#5B4850",
+        "color10": "#962250",
+        "color11": "#BC3C50",
+        "color12": "#DF1966",
+        "color13": "#EDC46F",
+        "color14": "#D84C88",
+        "color15": "#f4a9c9"
+    }
+}

@@ -1,0 +1,27 @@
+{
+    "wallpaper": "/home/elpepe44/.config/i3/walls/chica-anime-ojos-rojos_7680x4320_xtrafondos.com.jpg",
+    "alpha": "100",
+    "special": {
+        "background": "#0B0B0E",
+        "foreground": "#a8c2d6",
+        "cursor": "#a8c2d6"
+    },
+    "colors": {
+        "color0": "#0B0B0E",
+        "color1": "#D92533",
+        "color2": "#906973",
+        "color3": "#2A5C85",
+        "color4": "#64758C",
+        "color5": "#8D7C83",
+        "color6": "#C77583",
+        "color7": "#a8c2d6",
+        "color8": "#758795",
+        "color9": "#D92533",
+        "color10": "#906973",
+        "color11": "#2A5C85",
+        "color12": "#64758C",
+        "color13": "#8D7C83",
+        "color14": "#C77583",
+        "color15": "#a8c2d6"
+    }
+}

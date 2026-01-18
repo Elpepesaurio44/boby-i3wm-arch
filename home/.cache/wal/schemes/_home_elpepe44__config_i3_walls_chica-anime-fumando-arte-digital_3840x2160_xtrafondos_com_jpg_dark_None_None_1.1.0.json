@@ -1,0 +1,27 @@
+{
+    "wallpaper": "/home/elpepe44/.config/i3/walls/chica-anime-fumando-arte-digital_3840x2160_xtrafondos.com.jpg",
+    "alpha": "100",
+    "special": {
+        "background": "#090a09",
+        "foreground": "#e0f0f5",
+        "cursor": "#e0f0f5"
+    },
+    "colors": {
+        "color0": "#090a09",
+        "color1": "#346190",
+        "color2": "#D15DAE",
+        "color3": "#25C4E6",
+        "color4": "#ECAAF9",
+        "color5": "#A4C3EC",
+        "color6": "#EDCCFD",
+        "color7": "#e0f0f5",
+        "color8": "#9ca8ab",
+        "color9": "#346190",
+        "color10": "#D15DAE",
+        "color11": "#25C4E6",
+        "color12": "#ECAAF9",
+        "color13": "#A4C3EC",
+        "color14": "#EDCCFD",
+        "color15": "#e0f0f5"
+    }
+}

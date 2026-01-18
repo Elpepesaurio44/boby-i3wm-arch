@@ -1,0 +1,27 @@
+{
+    "wallpaper": "/home/elpepe44/.config/i3/walls/wp5500559-black-anime-girl-4k-wallpapers.jpg",
+    "alpha": "100",
+    "special": {
+        "background": "#0d0d0d",
+        "foreground": "#efe2df",
+        "cursor": "#efe2df"
+    },
+    "colors": {
+        "color0": "#0d0d0d",
+        "color1": "#6F5452",
+        "color2": "#696168",
+        "color3": "#AD5E60",
+        "color4": "#C0807C",
+        "color5": "#C3ACA0",
+        "color6": "#E6A2A2",
+        "color7": "#efe2df",
+        "color8": "#a79e9c",
+        "color9": "#6F5452",
+        "color10": "#696168",
+        "color11": "#AD5E60",
+        "color12": "#C0807C",
+        "color13": "#C3ACA0",
+        "color14": "#E6A2A2",
+        "color15": "#efe2df"
+    }
+}

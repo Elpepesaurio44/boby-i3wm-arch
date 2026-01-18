@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xbel version="1.0"
+      xmlns:bookmark="http://www.freedesktop.org/standards/desktop-bookmarks"
+      xmlns:mime="http://www.freedesktop.org/standards/shared-mime-info"
+>
+  <bookmark href="file:///home/elpepe44/.config/rofi/config.rasi" added="2026-01-17T15:16:14.747862Z" modified="2026-01-17T15:56:23.660414Z" visited="2026-01-17T15:16:14.747864Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/octet-stream"/>
+        <bookmark:applications>
+          <bookmark:application name="chromium" exec="&apos;chromium %u&apos;" modified="2026-01-17T15:56:23.660399Z" count="5"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/elpepe44/.config/rofi/template/rounded-template.rasi" added="2026-01-17T15:46:09.223173Z" modified="2026-01-17T16:06:13.652876Z" visited="2026-01-17T15:46:09.223176Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/octet-stream"/>
+        <bookmark:applications>
+          <bookmark:application name="chromium" exec="&apos;chromium %u&apos;" modified="2026-01-17T16:06:13.652868Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/elpepe44/.config/i3/lock.png" added="2026-01-17T22:50:39.045652Z" modified="2026-01-17T22:50:39.045668Z" visited="2026-01-17T22:50:39.045654Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/png"/>
+        <bookmark:applications>
+          <bookmark:application name="chromium" exec="&apos;chromium %u&apos;" modified="2026-01-17T22:50:39.045660Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/elpepe44/.config/cava/config" added="2026-01-18T00:03:11.006087Z" modified="2026-01-18T00:03:11.006102Z" visited="2026-01-18T00:03:11.006089Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/octet-stream"/>
+        <bookmark:applications>
+          <bookmark:application name="chromium" exec="&apos;chromium %u&apos;" modified="2026-01-18T00:03:11.006095Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+</xbel>

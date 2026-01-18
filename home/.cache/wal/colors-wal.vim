@@ -1,0 +1,23 @@
+" Special
+let wallpaper  = "/home/elpepe44/.config/i3/walls/shinobu-a-contra-luz-de-la-luna_3840x2160_xtrafondos.com.jpg"
+let background = "#06060E"
+let foreground = "#e3e8f5"
+let cursor     = "#e3e8f5"
+
+" Colors
+let color0  = "#06060E"
+let color1  = "#0956DF"
+let color2  = "#936DB3"
+let color3  = "#628AC2"
+let color4  = "#A3A2DA"
+let color5  = "#B5ADE2"
+let color6  = "#D2D3FB"
+let color7  = "#e3e8f5"
+let color8  = "#9ea2ab"
+let color9  = "#0956DF"
+let color10 = "#936DB3"
+let color11 = "#628AC2"
+let color12 = "#A3A2DA"
+let color13 = "#B5ADE2"
+let color14 = "#D2D3FB"
+let color15 = "#e3e8f5"

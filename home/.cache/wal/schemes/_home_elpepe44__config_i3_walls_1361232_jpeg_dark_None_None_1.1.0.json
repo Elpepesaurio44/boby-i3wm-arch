@@ -1,0 +1,27 @@
+{
+    "wallpaper": "/home/elpepe44/.config/i3/walls/1361232.jpeg",
+    "alpha": "100",
+    "special": {
+        "background": "#07190A",
+        "foreground": "#e3cfde",
+        "cursor": "#e3cfde"
+    },
+    "colors": {
+        "color0": "#07190A",
+        "color1": "#053594",
+        "color2": "#2950A3",
+        "color3": "#456ACC",
+        "color4": "#967B8D",
+        "color5": "#6890ED",
+        "color6": "#A79ED0",
+        "color7": "#e3cfde",
+        "color8": "#9e909b",
+        "color9": "#053594",
+        "color10": "#2950A3",
+        "color11": "#456ACC",
+        "color12": "#967B8D",
+        "color13": "#6890ED",
+        "color14": "#A79ED0",
+        "color15": "#e3cfde"
+    }
+}

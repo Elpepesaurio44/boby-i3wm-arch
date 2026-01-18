@@ -1,0 +1,27 @@
+{
+    "wallpaper": "/home/elpepe44/.config/i3/walls/makima-de-chainsaw-man_5120x2880_xtrafondos.com.jpg",
+    "alpha": "100",
+    "special": {
+        "background": "#010205",
+        "foreground": "#d9c4ca",
+        "cursor": "#d9c4ca"
+    },
+    "colors": {
+        "color0": "#010205",
+        "color1": "#62576A",
+        "color2": "#B72F57",
+        "color3": "#945F6B",
+        "color4": "#EFA739",
+        "color5": "#776C83",
+        "color6": "#CE698F",
+        "color7": "#d9c4ca",
+        "color8": "#97898d",
+        "color9": "#62576A",
+        "color10": "#B72F57",
+        "color11": "#945F6B",
+        "color12": "#EFA739",
+        "color13": "#776C83",
+        "color14": "#CE698F",
+        "color15": "#d9c4ca"
+    }
+}

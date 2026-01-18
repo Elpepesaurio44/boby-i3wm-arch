@@ -1,0 +1,27 @@
+{
+    "wallpaper": "/home/elpepe44/.config/i3/walls/akira-asai-de-yofukashi-no-uta-call-of-the-night_2560x1440_xtrafondos.com.jpg",
+    "alpha": "100",
+    "special": {
+        "background": "#0c0b0f",
+        "foreground": "#e1c5ca",
+        "cursor": "#e1c5ca"
+    },
+    "colors": {
+        "color0": "#0c0b0f",
+        "color1": "#4F4763",
+        "color2": "#6C586D",
+        "color3": "#8A6478",
+        "color4": "#797385",
+        "color5": "#9E778E",
+        "color6": "#9C92A0",
+        "color7": "#e1c5ca",
+        "color8": "#9d898d",
+        "color9": "#4F4763",
+        "color10": "#6C586D",
+        "color11": "#8A6478",
+        "color12": "#797385",
+        "color13": "#9E778E",
+        "color14": "#9C92A0",
+        "color15": "#e1c5ca"
+    }
+}

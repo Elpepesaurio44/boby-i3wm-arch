@@ -1,0 +1,27 @@
+{
+    "wallpaper": "/home/elpepe44/.config/i3/walls/backiee-299512-landscape.jpg",
+    "alpha": "100",
+    "special": {
+        "background": "#0a0707",
+        "foreground": "#e0cac9",
+        "cursor": "#e0cac9"
+    },
+    "colors": {
+        "color0": "#0a0707",
+        "color1": "#CE1314",
+        "color2": "#D02426",
+        "color3": "#BD4F57",
+        "color4": "#996667",
+        "color5": "#9D7C84",
+        "color6": "#AA9599",
+        "color7": "#e0cac9",
+        "color8": "#9c8d8c",
+        "color9": "#CE1314",
+        "color10": "#D02426",
+        "color11": "#BD4F57",
+        "color12": "#996667",
+        "color13": "#9D7C84",
+        "color14": "#AA9599",
+        "color15": "#e0cac9"
+    }
+}

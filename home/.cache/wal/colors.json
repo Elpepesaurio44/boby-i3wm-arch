@@ -1,0 +1,28 @@
+{
+    "wallpaper": "/home/elpepe44/.config/i3/walls/shinobu-a-contra-luz-de-la-luna_3840x2160_xtrafondos.com.jpg",
+    "alpha": "100",
+
+    "special": {
+        "background": "#06060E",
+        "foreground": "#e3e8f5",
+        "cursor": "#e3e8f5"
+    },
+    "colors": {
+        "color0": "#06060E",
+        "color1": "#0956DF",
+        "color2": "#936DB3",
+        "color3": "#628AC2",
+        "color4": "#A3A2DA",
+        "color5": "#B5ADE2",
+        "color6": "#D2D3FB",
+        "color7": "#e3e8f5",
+        "color8": "#9ea2ab",
+        "color9": "#0956DF",
+        "color10": "#936DB3",
+        "color11": "#628AC2",
+        "color12": "#A3A2DA",
+        "color13": "#B5ADE2",
+        "color14": "#D2D3FB",
+        "color15": "#e3e8f5"
+    }
+}

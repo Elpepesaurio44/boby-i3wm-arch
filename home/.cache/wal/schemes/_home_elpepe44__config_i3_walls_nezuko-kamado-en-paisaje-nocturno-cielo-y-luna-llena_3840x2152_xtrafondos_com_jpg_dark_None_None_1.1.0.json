@@ -1,0 +1,27 @@
+{
+    "wallpaper": "/home/elpepe44/.config/i3/walls/nezuko-kamado-en-paisaje-nocturno-cielo-y-luna-llena_3840x2152_xtrafondos.com.jpg",
+    "alpha": "100",
+    "special": {
+        "background": "#0a0e15",
+        "foreground": "#e3cdd4",
+        "cursor": "#e3cdd4"
+    },
+    "colors": {
+        "color0": "#0a0e15",
+        "color1": "#954770",
+        "color2": "#346087",
+        "color3": "#48668E",
+        "color4": "#B6678D",
+        "color5": "#7D8997",
+        "color6": "#D9A2AF",
+        "color7": "#e3cdd4",
+        "color8": "#9e8f94",
+        "color9": "#954770",
+        "color10": "#346087",
+        "color11": "#48668E",
+        "color12": "#B6678D",
+        "color13": "#7D8997",
+        "color14": "#D9A2AF",
+        "color15": "#e3cdd4"
+    }
+}

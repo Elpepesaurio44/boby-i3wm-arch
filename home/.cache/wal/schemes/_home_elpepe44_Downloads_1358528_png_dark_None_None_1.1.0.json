@@ -1,0 +1,27 @@
+{
+    "wallpaper": "/home/elpepe44/Downloads/1358528.png",
+    "alpha": "100",
+    "special": {
+        "background": "#0b1117",
+        "foreground": "#eadcd2",
+        "cursor": "#eadcd2"
+    },
+    "colors": {
+        "color0": "#0b1117",
+        "color1": "#566366",
+        "color2": "#828280",
+        "color3": "#A39C94",
+        "color4": "#CE9A96",
+        "color5": "#CEBBAD",
+        "color6": "#D6C3B3",
+        "color7": "#eadcd2",
+        "color8": "#a39a93",
+        "color9": "#566366",
+        "color10": "#828280",
+        "color11": "#A39C94",
+        "color12": "#CE9A96",
+        "color13": "#CEBBAD",
+        "color14": "#D6C3B3",
+        "color15": "#eadcd2"
+    }
+}

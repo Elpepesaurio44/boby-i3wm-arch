@@ -1,0 +1,43 @@
+@import "~/.cache/wal/colors-rofi-dark.rasi"
+
+configuration {
+    show-icons: true; /* Obligatorio para ver las miniaturas */
+}
+
+window {
+    width:    80%;
+    height:   70%;
+    border:   2px;
+    border-color: @selected-active-background;
+    border-radius: 15px;
+    background-color: @background;
+}
+
+listview {
+    columns: 4; /* 4 imágenes por fila */
+    lines:   3;
+    spacing: 20px;
+    margin:  20px;
+    fixed-columns: true;
+}
+
+element {
+    orientation: vertical; /* Imagen arriba, nombre abajo */
+    padding:     10px;
+    border-radius: 10px;
+}
+
+element-icon {
+    size: 200px; /* Tamaño de la previsualización */
+    horizontal-align: 0.5;
+}
+
+element-text {
+    horizontal-align: 0.5;
+    font: "JetBrainsMono Nerd Font 10";
+}
+
+element selected {
+    background-color: @selected-active-background;
+    text-color: @background;
+}

@@ -1,0 +1,35 @@
+[general]
+# Velocidad para que se vea fluido en Alacritty [cite: 3]
+framerate = 60
+autosens = 1
+bars = 0
+bar_width = 2
+bar_spacing = 1
+
+[input]
+# Detecta el audio de tu sistema [cite: 20]
+method = pipewire
+source = auto
+
+[output]
+# Cambiamos a ncurses para evitar el error de carga 
+method = ncurses
+# Evita el parpadeo en Alacritty [cite: 70, 71]
+synchronized_sync = 1
+
+[color]
+# COLORES DE PYWAL [cite: 80]
+# 'default' usa los colores que pywal inyecta en tu terminal [cite: 80, 81]
+background = default
+foreground = default
+
+# Gradiente dinámico usando los colores de la terminal [cite: 83]
+gradient = 1
+gradient_count = 2
+gradient_color_1 = 'default'
+gradient_color_2 = 'default'
+
+[smoothing]
+# Suavizado para que las barras no salten bruscamente [cite: 95]
+monstercat = 1
+noise_reduction = 77 [cite: 99]

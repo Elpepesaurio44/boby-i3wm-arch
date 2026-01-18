@@ -1,0 +1,27 @@
+# --- Configuración de Colores (Pywal) ---
+# Esto hace que Alacritty cambie de color al usar 'wal -i'
+[[ -f ~/.cache/wal/sequences ]] && (cat ~/.cache/wal/sequences &)
+
+# --- Aliases para LSD ---
+# Reemplazamos el comando 'ls' normal por 'lsd'
+alias ls='lsd'
+alias l='lsd -l'
+alias la='lsd -a'
+alias ll='lsd -la'
+alias lt='lsd --tree'
+# Reemplazar ls con eza (con iconos y colores)
+alias ls='eza --icons --group-directories-first --color=always'
+alias ll='eza -lh --icons --group-directories-first'
+alias lt='eza --tree --level=2 --icons'
+# Abre yazi en una ventana de tamaño específico (si tu terminal lo permite)
+alias yazi='stty cols 120 rows 35 && yazi'
+
+# --- Prompt Básico ---
+# Un prompt sencillo que muestra el usuario y la carpeta
+#PROMPT='%F{cyan}%n%f@%F{magenta}%m%f %F{blue}%~%f $ '
+#PROMPT='%F{white}[%f%F{cyan}%n%f@%F{magenta}%m%f %F{blue}%~%f%F{white}]%f $ '
+
+PROMPT='%F{8}┏━%f %F{1}󰣇%f %F{2}%n%f %F{8}at%f %F{3}%m%f %F{8}in%f %F{4}%~%f
+%F{8}┗━%f%F{5}󰁔%f '
+eval "$(starship init zsh)"
+cat ~/.cache/wal/sequences

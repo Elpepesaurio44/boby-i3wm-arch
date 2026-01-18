@@ -1,0 +1,26 @@
+# Cargar la configuración de colores y cursores
+exec_always xrdb -merge ~/.Xresources
+
+# Establecer el tema de cursor Gloomi
+exec_always xsetroot -cursor_name left_ptr
+
+# Start XDG autostart .desktop files using dex. See also
+# https://wiki.archlinux.org/index.php/XDG_Autostart
+exec --no-startup-id dex --autostart --environment i3
+
+# xss-lock grabs a logind suspend inhibit lock and will use i3lock to lock the
+# screen before suspend. Use loginctl lock-session to lock your screen.
+#exec --no-startup-id xss-lock --transfer-sleep-lock -- i3lock --nofork
+
+exec --no-startup-id xautolock -time 5 -locker ~/.config/i3/lock.sh
+
+
+# NetworkManager is the most popular way to manage wireless networks on Linux,
+# and nm-applet is a desktop environment-independent system tray GUI for it.
+exec --no-startup-id nm-applet
+
+exec_always --no-startup-id wal -R
+
+exec_always --no-startup-id $HOME/.config/polybar/launch.sh
+
+exec_always --no-startup-id picom -b

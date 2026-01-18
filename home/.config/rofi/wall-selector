@@ -1,0 +1,20 @@
+#!/bin/bash
+DIR="$HOME/.config/i3/walls"
+
+# Generar la lista de archivos formateada para Rofi con iconos
+list_walls() {
+    for wall in "$DIR"/*.{jpg,png,jpeg}; do
+        if [ -f "$wall" ]; then
+            echo -en "$(basename "$wall")\0icon\x1f$wall\n"
+        fi
+    done
+}
+
+# Ejecutar Rofi con el tema de wallpapers
+SELECTED=$(list_walls | rofi -dmenu -i -p "󰸉 Seleccionar Fondo" -theme ~/.config/rofi/wallpapers.rasi)
+
+if [ ! -z "$SELECTED" ]; then
+    wal -i "$DIR/$SELECTED"
+    # Notificación con la misma imagen de icono
+    notify-send -i "$DIR/$SELECTED" "Wallpaper" "Tema aplicado: $SELECTED"
+fi

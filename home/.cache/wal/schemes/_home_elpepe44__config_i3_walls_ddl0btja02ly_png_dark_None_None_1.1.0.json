@@ -1,0 +1,27 @@
+{
+    "wallpaper": "/home/elpepe44/.config/i3/walls/ddl0btja02ly.png",
+    "alpha": "100",
+    "special": {
+        "background": "#0A100F",
+        "foreground": "#dedacf",
+        "cursor": "#dedacf"
+    },
+    "colors": {
+        "color0": "#0A100F",
+        "color1": "#6B776C",
+        "color2": "#857C67",
+        "color3": "#72863A",
+        "color4": "#768672",
+        "color5": "#93936C",
+        "color6": "#9BA08F",
+        "color7": "#dedacf",
+        "color8": "#9b9890",
+        "color9": "#6B776C",
+        "color10": "#857C67",
+        "color11": "#72863A",
+        "color12": "#768672",
+        "color13": "#93936C",
+        "color14": "#9BA08F",
+        "color15": "#dedacf"
+    }
+}

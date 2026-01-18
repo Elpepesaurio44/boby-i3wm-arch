@@ -1,0 +1,17 @@
+#!/bin/bash
+
+# Iconos Nerd Font
+power="󰐥"
+reboot="󰜉"
+suspend="󰤄"
+logout="󰗼"
+
+# Ejecutar Rofi con el tema específico
+chosen=$(echo -e "$power\n$reboot\n$suspend\n$logout" | rofi -dmenu -i -p "Sistema" -theme ~/.config/rofi/powermenu.rasi)
+
+case "$chosen" in
+    "$power") systemctl poweroff ;;
+    "$reboot") systemctl reboot ;;
+    "$suspend") systemctl suspend ;;
+    "$logout") i3-msg exit ;;
+esac

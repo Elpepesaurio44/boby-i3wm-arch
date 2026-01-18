@@ -1,0 +1,27 @@
+{
+    "wallpaper": "/home/elpepe44/.config/i3/walls/wp6756081-dark-girl-anime-wallpapers.jpg",
+    "alpha": "100",
+    "special": {
+        "background": "#0d0d0e",
+        "foreground": "#cccacd",
+        "cursor": "#cccacd"
+    },
+    "colors": {
+        "color0": "#0d0d0e",
+        "color1": "#423D47",
+        "color2": "#50366A",
+        "color3": "#4A4A4A",
+        "color4": "#6D6769",
+        "color5": "#927474",
+        "color6": "#928D92",
+        "color7": "#cccacd",
+        "color8": "#8e8d8f",
+        "color9": "#423D47",
+        "color10": "#50366A",
+        "color11": "#4A4A4A",
+        "color12": "#6D6769",
+        "color13": "#927474",
+        "color14": "#928D92",
+        "color15": "#cccacd"
+    }
+}

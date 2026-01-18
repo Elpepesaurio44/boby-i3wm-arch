@@ -1,0 +1,27 @@
+{
+    "wallpaper": "/home/elpepe44/.config/i3/walls/seiko-de-dandadan_3840x2160_xtrafondos.com.jpg",
+    "alpha": "100",
+    "special": {
+        "background": "#1b161b",
+        "foreground": "#ded9d1",
+        "cursor": "#ded9d1"
+    },
+    "colors": {
+        "color0": "#1b161b",
+        "color1": "#C1897C",
+        "color2": "#7C7A8E",
+        "color3": "#99958A",
+        "color4": "#A7A197",
+        "color5": "#D2B396",
+        "color6": "#D3BCA5",
+        "color7": "#ded9d1",
+        "color8": "#9b9792",
+        "color9": "#C1897C",
+        "color10": "#7C7A8E",
+        "color11": "#99958A",
+        "color12": "#A7A197",
+        "color13": "#D2B396",
+        "color14": "#D3BCA5",
+        "color15": "#ded9d1"
+    }
+}
