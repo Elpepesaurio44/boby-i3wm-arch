@@ -11,7 +11,7 @@ Configuración altamente optimizada para **Arch Linux** usando **i3wm**. Este se
 ## 🎥 Showdown (Video Demo)
 
 <p align="center">
-  <video src="demo.mp4" width="100%" controls autoplay loop muted></video>
+  <video src="https://github.com/Elpepesaurio44/boby-i3wm-arch/demo.mp4" width="100%" controls autoplay loop muted></video>
 </p>
 
 ## 🖼️ Screenshots
